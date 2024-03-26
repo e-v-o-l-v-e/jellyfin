@@ -1,3 +1,9 @@
+I Forked it so i can sutdy it, learned C# and eventually contribute !
+
+
+
+
+
 <h1 align="center">Jellyfin</h1>
 <h3 align="center">The Free Software Media System</h3>
 
